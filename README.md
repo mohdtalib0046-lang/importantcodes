@@ -350,3 +350,11 @@ all codes
 //             height[lp]<height[rp]?lp++:rp--;
 //         }
 //         return ans;
+
+
+
+
+
+
+
+end 
